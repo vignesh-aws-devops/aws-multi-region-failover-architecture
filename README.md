@@ -18,9 +18,9 @@ I’m excited to share that I’ve successfully designed and deployed a scalable
 🌟 **Apache Web Server**: Deployed to host and manage web applications effectively.
 
 ## Advanced Cloud Solutions:
-✅ **Cross-Region Data Replication**: Configured real-time cross-region replication to ensure data consistency across regions. 
-✅ **Cost Optimization**: Leveraged AWS tools for performance monitoring and cost-efficient auto-scaling operations. 
-✅ **Disaster Recovery Strategy**: Built an automated disaster recovery strategy for business continuity during region outages. 
+✅ **Cross-Region Data Replication**: Configured real-time cross-region replication to ensure data consistency across regions.      
+✅ **Cost Optimization**: Leveraged AWS tools for performance monitoring and cost-efficient auto-scaling operations.     
+✅ **Disaster Recovery Strategy**: Built an automated disaster recovery strategy for business continuity during region outages.     
 
 ## Architecture Diagram
 
