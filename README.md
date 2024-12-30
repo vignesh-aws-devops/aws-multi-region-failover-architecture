@@ -26,7 +26,7 @@ I’m excited to share that I’ve successfully designed and deployed a scalable
 
 Below is the architecture diagram of the multi-region failover architecture deployed using **AWS services**:
 
-![High-Availability Architecture](aws failover routing.png)
+![High-Availability Architecture](aws%20failover%20routing.png)
 
 ## Key Learnings & Takeaways:
 ✅ Mastered the integration of AWS Auto Scaling, Route 53, ALB, and EC2 for maximum availability.   
@@ -36,4 +36,4 @@ Below is the architecture diagram of the multi-region failover architecture depl
 This project has refined my skills in cloud architecture, disaster recovery, and multi-region high-availability solutions. Excited to continue expanding my AWS capabilities! ⚡🎯
 
 ---
-[Linked URL](https://www.linkedin.com/posts/vignesh-kumar-80853320b_cloudcomputing-devops-highavailability-activity-7276608767062953986-BQue?utm_source=share&utm_medium=member_desktop)
+[Feel free to check it out on LinkedIn](https://www.linkedin.com/posts/vignesh-kumar-80853320b_cloudcomputing-devops-highavailability-activity-7276608767062953986-BQue?utm_source=share&utm_medium=member_desktop)
