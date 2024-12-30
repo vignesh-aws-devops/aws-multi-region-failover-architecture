@@ -1,5 +1,4 @@
 # aws-multi-region-failover-architecture
-Completed a High-Availability Multi-Region Failover Architecture on AWS
 
 # 🚀 Completed a High-Availability Multi-Region Failover Architecture on AWS 🌐
 
@@ -9,7 +8,7 @@ I’m excited to share that I’ve successfully designed and deployed a scalable
 ✅ **VPC and Subnet Design**: Created isolated, secure VPCs and subnets across two AWS regions for high availability. 
 ✅ **EC2 Deployment**: Launched EC2 instances in public subnets with Auto Scaling configured in one region for system resilience. 
 ✅ **ALB Setup**: Configured ALBs in both regions for traffic distribution, enhancing performance and reducing latencies.  
-✅ **Route 53 Failover Routing**: Implemented Route 53 for DNS failover routing, ensuring seamless traffic redirection to the secondary region in case of failure. 
+✅ **Route 53 Failover Routing**: Implemented Route 53 for DNS failover routing, ensuring seamless traffic redirection to the secondary region in case of failure.  
 ✅ **SSL/TLS Security with ACM**: Secured communication using AWS Certificate Manager (ACM) for managing SSL/TLS certificates, ensuring encrypted data transfer and compliance.  
 ✅ **Health Checks & Auto Recovery**: Integrated ALB health checks to reroute traffic in case of instance failures, with Auto Scaling for recovery. 
 
