@@ -1,5 +1,3 @@
-# aws-multi-region-failover-architecture
-
 # 🚀 Completed a High-Availability Multi-Region Failover Architecture on AWS 🌐
 
 I’m excited to share that I’ve successfully designed and deployed a scalable, highly available, and fault-tolerant cloud architecture across two AWS regions, demonstrating my expertise in architecting resilient solutions for complex, enterprise-level systems. 
@@ -36,4 +34,4 @@ Below is the architecture diagram of the multi-region failover architecture depl
 This project has refined my skills in cloud architecture, disaster recovery, and multi-region high-availability solutions. Excited to continue expanding my AWS capabilities! ⚡🎯
 
 ---
-[Feel free to check it out on LinkedIn](https://www.linkedin.com/posts/vignesh-kumar-80853320b_cloudcomputing-devops-highavailability-activity-7276608767062953986-BQue?utm_source=share&utm_medium=member_desktop)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vignesh-aws-devops/)  
